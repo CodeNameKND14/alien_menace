@@ -1,9 +1,7 @@
-# Background
-
 ![1-Logo](static/images/nasa.jpg	)
 
 
-## Automatic Table and Date Search
+### Automatic Table and Date Search
 
 
 - Created a basic HTML web page.
