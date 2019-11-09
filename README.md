@@ -1,6 +1,6 @@
 # Background
 
-![1-Logo](Images/nasa.jpg	)
+![1-Logo](static/Images/nasa.jpg	)
 
 
 ## Automatic Table and Date Search
